@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+.all {
+  /* setting font-size to 0 on the parent of a set of inline block elements removes white space between them.    */
+  //font-size: 0;
+}
+
+.main {
+  width: 49%;
+  display: inline-block;
+  border: 1px solid black;
+  
+}
