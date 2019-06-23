@@ -10,5 +10,12 @@
   width: 49%;
   display: inline-block;
   border: 1px solid black;
-  
+
+}
+
+body {
+  background-image: url("https://i.imgur.com/7TTOsop.jpg");
+  background-repeat:no-repeat;
+  background-size: contain;
+  background-position: center;
 }
